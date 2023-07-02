@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77331b7d-0ec6-406c-96d5-0d16b2ee8b2b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build/classes/form/DuAnFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/form/DuAnFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/form/DuAnFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/form/DuAnFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/form/DuAnFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/form/DuAnFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/form/SignupFrame$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/form/SignupFrame$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/form/SignupFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/form/SignupFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/form/DuAnFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/form/DuAnFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/form/DuAnFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/form/DuAnFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/form/SignupFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/form/SignupFrame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2PO4KztbC4PpMRdZJFZ9HqNIX8u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/QL_CongViec_OOP"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77331b7d-0ec6-406c-96d5-0d16b2ee8b2b" name="Changes" comment="" />
+      <created>1683314733964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683314733964</updated>
+    </task>
+    <servers />
+  </component>
+</project>
